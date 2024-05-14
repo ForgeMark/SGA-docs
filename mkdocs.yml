@@ -1,0 +1,40 @@
+site_name: Stargate Atlantis replica documentation
+theme:
+  name: 'material'
+  custom_dir: custom_theme
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+  font:
+    text: 'titillium web'
+    code: 'Ubuntu Mono'
+  language: 'en'
+  features:
+    - content.code.copy
+  logo: images/logo.png
+  
+nav:
+  - Quickstart guide: index.md
+  - Contact: contact.md
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
