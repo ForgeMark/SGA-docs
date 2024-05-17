@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 
 ###Marek Šefl
 ![](images/creator.jpg){: style="max-height:20vh;"}

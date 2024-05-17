@@ -1,6 +1,11 @@
+---
+hide:
+  - navigation
+---
+
 # Quickstart guide
 
-!!! info "This documentation is under construction"
+!!! warning "This page is under construction"
 
 
 ## 1. Power up the gate
