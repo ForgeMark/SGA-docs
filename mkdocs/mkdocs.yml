@@ -26,7 +26,6 @@ theme:
   
 nav:
   - Quickstart guide: index.md
-  - Accessories: accessories.md
   - Hardware: hardware.md
   - Programming: programming.md
   - Contact: contact.md
