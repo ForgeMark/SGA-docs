@@ -4,12 +4,10 @@ hide:
   - toc
 ---
 
-###Marek Šefl<br>@seflmar
+##ForgeMark
 
-![](images/creator.jpg){: style="max-height:20vh;"}
+![](images/creator.png){: style="max-height:20vh;"}
 
-Email: marek.sefl@seznam.cz
+<small>Email: forgemark@proton.me</small>
 
-[:fontawesome-brands-facebook:](https://www.facebook.com/marek.sefl.3)
-[:fontawesome-brands-twitter:](https://twitter.com/marek_sefl)
-[:fontawesome-brands-instagram:](https://www.instagram.com/seflmar/)
+[Join ForgeMark Discord](https://discord.gg/22xnDuW6){ .md-button .md-button--primary }
